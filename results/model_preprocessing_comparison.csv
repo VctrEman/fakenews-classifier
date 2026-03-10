@@ -1,0 +1,13 @@
+preprocessing_type,model,f1_score,vocab_size,train_samples
+original,LogisticRegression,0.9517144856543037,5000,5760
+original,SVM,0.9611111111111111,5000,5760
+original,SVC,0.9615653389238294,5000,5760
+lemmantized_200,LogisticRegression,0.9358178053830227,5000,5760
+lemmantized_200,SVM,0.9377593360995851,5000,5760
+lemmantized_200,SVC,0.945054945054945,5000,5760
+lemmantized,LogisticRegression,0.9510985116938342,5000,5760
+lemmantized,SVM,0.9607843137254902,5000,5760
+lemmantized,SVC,0.9611856033874383,5000,5760
+simple_cleaned,LogisticRegression,0.9515789473684211,5000,5760
+simple_cleaned,SVM,0.9616189811584089,5000,5760
+simple_cleaned,SVC,0.9607293127629734,5000,5760

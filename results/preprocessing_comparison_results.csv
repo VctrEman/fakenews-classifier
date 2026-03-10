@@ -1,0 +1,5 @@
+preprocessing_type,f1_score,vocab_size,train_samples
+original,0.9517144856543037,5000,5760
+lemmantized_200,0.9358178053830227,5000,5760
+lemmantized,0.9510985116938342,5000,5760
+simple_cleaned,0.9515789473684211,5000,5760

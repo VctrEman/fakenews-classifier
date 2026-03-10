@@ -1,0 +1,17 @@
+dataset,model,tfidf_norm,f1_score
+original,LogisticRegression,l1,0.855146124523507
+original,SVM,l1,0.8671328671328671
+original,LogisticRegression,l2,0.9537166900420757
+original,SVM,l2,0.9658536585365853
+lemmantized_200,LogisticRegression,l1,0.8541801685029164
+lemmantized_200,SVM,l1,0.8688845401174168
+lemmantized_200,LogisticRegression,l2,0.9332425068119891
+lemmantized_200,SVM,l2,0.9420586230402181
+lemmantized,LogisticRegression,l1,0.8323845667299178
+lemmantized,SVM,l1,0.8582326764144946
+lemmantized,LogisticRegression,l2,0.956338028169014
+lemmantized,SVM,l2,0.9664804469273743
+simple_cleaned,LogisticRegression,l1,0.8511716276124129
+simple_cleaned,SVM,l1,0.864244741873805
+simple_cleaned,LogisticRegression,l2,0.9501754385964912
+simple_cleaned,SVM,l2,0.9623430962343096
